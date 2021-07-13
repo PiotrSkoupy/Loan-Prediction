@@ -1,6 +1,6 @@
 # Loan-Prediction
 In this project I'm trying to predict wheter a customer should receive a Loan from a bank or not.
-I'm using Python with Pandas, Matplotlib, PyTorch and Tensorflow
+I'm using Python with Pandas, Matplotlib, Keras, Sklearn and Tensorflow
 
 1. I'm using linear regression trying to find out if a store has increased it's sales in the past. If not this shop is rejected.
 2. Later on I'm focusing only on shops that weren't declined in the first step. For those I'm trying to predict their future with LSTM Neural Net. 
